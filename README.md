@@ -1,5 +1,5 @@
 # ComposeRuntimePlayground
-Playing with the Compose Runtime to discover how Jetpack Compose can be used in other fields than UI, thanks to Compose Runtime and Compiler.
+Playing with the Compose Runtime to understand how Jetpack Compose can be used in other fields than UI, thanks to Compose Runtime and Compiler.
 
 This project was inspired by the following contents :
 
